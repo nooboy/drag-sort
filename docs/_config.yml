@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+// theme: jekyll-theme-cayman
+theme: theme: jekyll-theme-minimal
 title: test
 description: this is a test site
